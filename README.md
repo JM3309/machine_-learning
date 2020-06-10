@@ -13,4 +13,4 @@ machine learning code and algorithm based on cs229 and prml
    * Gaussian Discriminant Analysis
    * Naïve Bayes 
  
-## 3. SVM [notes] ()
+## 3. SVM [notes](https://github.com/JM3309/machine_-learning/blob/master/MLnotes_SVM.pdf)
