@@ -14,3 +14,6 @@ machine learning code and algorithm based on cs229 and prml
    * Naïve Bayes 
  
 ## 3. SVM [notes](https://github.com/JM3309/machine_-learning/blob/master/MLnotes_SVM.pdf)
+   * hard-margin SVM
+   * soft-margin SVM
+   * Kernel SVM
